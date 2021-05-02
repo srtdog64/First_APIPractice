@@ -1,0 +1,163 @@
+﻿  Main.cpp
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(849,34): warning C4244: '=': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(1111,27): warning C4244: '=': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(1243,48): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(1243,33): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(1306,64): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(1306,51): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(1307,68): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(1307,44): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(1307,19): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(1309,59): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(1309,51): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(1310,59): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(1310,39): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(1310,19): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(1398,66): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(1398,31): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(1398,22): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(1446,33): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(1446,23): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(1455,33): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(1455,22): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(1465,31): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(1465,22): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(1471,33): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(1471,22): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(1573,10): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(1574,10): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(1651,107): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(1651,101): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(1661,72): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(1661,66): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(1661,52): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(1661,41): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(1675,83): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(1675,76): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(1675,51): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(1675,45): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(1702,24): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(1702,18): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(1733,33): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(1733,23): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(1769,37): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(1769,25): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(1804,9): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(1827,9): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(1835,9): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(1836,9): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(1881,9): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(1882,9): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(1883,9): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(1909,9): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(1935,10): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(1936,10): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2206,52): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2206,45): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2215,49): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2215,45): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2215,32): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2215,21): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2219,81): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2219,77): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2219,64): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2219,57): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2230,48): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2230,33): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2244,40): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2244,30): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2246,12): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2247,21): warning C4244: '=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2248,32): warning C4244: '=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2249,26): warning C4244: '=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2250,32): warning C4244: '=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2251,26): warning C4244: '=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2252,36): warning C4244: '=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2253,21): warning C4244: '=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2254,36): warning C4244: '=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2255,21): warning C4244: '=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2256,32): warning C4244: '=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2260,93): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2260,66): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2260,51): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2260,29): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2280,35): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2281,65): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2282,32): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2328,10): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2331,19): warning C4244: '=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2332,30): warning C4244: '=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2333,24): warning C4244: '=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2334,30): warning C4244: '=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2335,24): warning C4244: '=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2336,35): warning C4244: '=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2337,19): warning C4244: '=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2338,35): warning C4244: '=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2339,19): warning C4244: '=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2340,30): warning C4244: '=': 'double'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2343,93): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2343,65): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2343,49): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2343,27): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2353,39): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2353,29): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2418,8): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2419,8): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2490,20): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2491,20): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2492,20): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2549,17): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2550,29): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2551,29): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2603,14): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2608,20): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2609,29): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2610,29): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2662,21): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2755,6): warning C4390: ';': 제어된 빈 문이 있습니다. 이 문이 필요합니까?
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2761,7): warning C4390: ';': 제어된 빈 문이 있습니다. 이 문이 필요합니까?
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2767,8): warning C4390: ';': 제어된 빈 문이 있습니다. 이 문이 필요합니까?
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2774,9): warning C4390: ';': 제어된 빈 문이 있습니다. 이 문이 필요합니까?
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2798,51): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2798,40): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2798,29): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2798,23): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2801,41): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2801,35): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2801,29): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2801,23): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2812,51): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2812,40): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2812,29): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2812,23): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2815,41): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2815,35): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2815,29): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2815,23): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2825,55): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2825,43): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2825,30): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2825,23): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2828,44): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2828,37): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2828,30): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2828,23): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2864,45): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2864,37): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2866,56): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2866,48): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2894,30): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2928,31): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2963,32): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(2998,33): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(3040,30): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(3152,9): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(3173,67): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(3173,45): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(3175,67): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(3175,45): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(3177,67): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(3177,45): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(3179,62): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kukjae\Downloads\Test (2) (2)\Test\Main.cpp(3179,40): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Test.vcxproj -> C:\Users\kukjae\Downloads\Test (2) (2)\Debug\Test.exe
